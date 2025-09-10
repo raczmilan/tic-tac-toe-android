@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XO</string>
+    <string name="first_label">Player 1</string>
+    <string name="second_label">Player 2</string>
+    <string name="button_start">Start Game</string>
+    <string name="select_color">Change Background Color</string>
+</resources>
